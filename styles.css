@@ -2,3 +2,23 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.container-2 {
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.searchbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+.searchbar input {
+  height: 20px;
+  width: 550px;
+  border-radius: 25%;
+}
+
+.go-img {
+  display: flex;
+  justify-content: space-evenly;
+}
